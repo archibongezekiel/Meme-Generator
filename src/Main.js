@@ -19,7 +19,7 @@ export default function Main() {
 
       <div className="meme-container">
         {" "}
-        <img src={meme1} alt="meme icon" className="meme-class" />
+        <img src={meme1} alt="" className="meme-class" />
       </div>
     </div>
   );
