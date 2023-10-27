@@ -24,7 +24,7 @@ export default function Main() {
       <div className="information">
         {" "}
         <span class="material-symbols-outlined">error</span>
-        <p>We been uploading memes every evening!!</p>
+        <p>We been uploading memes from 6pm to 10pm!!</p>
       </div>
     </div>
   );

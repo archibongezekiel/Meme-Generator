@@ -9,7 +9,7 @@ export default [
   { memeImage: "meme8.jpeg" },
   { memeImage: "meme9.jpeg" },
   { memeImage: "meme10.jpeg" },
-  { memeImage: "meme11.jpeg11" },
+  { memeImage: "meme11.jpeg" },
   { memeImage: "meme12.jpeg" },
   { memeImage: "meme13.jpeg" },
   { memeImage: "meme14.jpeg" },
