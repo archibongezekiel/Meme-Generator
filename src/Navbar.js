@@ -8,7 +8,7 @@ export default function Nav(params) {
           {" "}
           <span className="emoji-icon"> ♋️</span>Meme Generator
         </h2>
-        <p>React Course - Project 3</p>
+        <p className="text">React Course - Project 3</p>
       </nav>
     </div>
   );
