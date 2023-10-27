@@ -21,6 +21,11 @@ export default function Main() {
         {" "}
         <img src={meme1} alt="" className="meme-class" />
       </div>
+      <div className="information">
+        {" "}
+        <span class="material-symbols-outlined">error</span>
+        <p>We been uploading memes every evening!!</p>
+      </div>
     </div>
   );
 }
